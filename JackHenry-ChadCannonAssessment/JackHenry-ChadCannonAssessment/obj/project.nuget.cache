@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "v9FyjZhhafOfXhBbu+JMsWHO0HyuSysejhB/NsnX7ErmmUCIrsOwVnfdGBgQK8Cva/BblztjorIgwjFU7qsrDA==",
+  "success": true,
+  "projectFilePath": "C:\\Rider\\Projects\\JackHenry-ChadCannonAssessment\\JackHenry-ChadCannonAssessment\\JackHenry-ChadCannonAssessment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\canno\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\canno\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\canno\\.nuget\\packages\\reddit\\1.5.2\\reddit.1.5.2.nupkg.sha512",
+    "C:\\Users\\canno\\.nuget\\packages\\restsharp\\106.6.9\\restsharp.106.6.9.nupkg.sha512"
+  ],
+  "logs": []
+}

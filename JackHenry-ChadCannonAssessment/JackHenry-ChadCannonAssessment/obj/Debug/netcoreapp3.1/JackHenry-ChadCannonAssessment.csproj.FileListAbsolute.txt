@@ -1,0 +1,17 @@
+C:\Rider\Projects\JackHenry-ChadCannonAssessment\JackHenry-ChadCannonAssessment\bin\Debug\netcoreapp3.1\JackHenry-ChadCannonAssessment.exe
+C:\Rider\Projects\JackHenry-ChadCannonAssessment\JackHenry-ChadCannonAssessment\bin\Debug\netcoreapp3.1\JackHenry-ChadCannonAssessment.deps.json
+C:\Rider\Projects\JackHenry-ChadCannonAssessment\JackHenry-ChadCannonAssessment\bin\Debug\netcoreapp3.1\JackHenry-ChadCannonAssessment.runtimeconfig.json
+C:\Rider\Projects\JackHenry-ChadCannonAssessment\JackHenry-ChadCannonAssessment\bin\Debug\netcoreapp3.1\JackHenry-ChadCannonAssessment.runtimeconfig.dev.json
+C:\Rider\Projects\JackHenry-ChadCannonAssessment\JackHenry-ChadCannonAssessment\bin\Debug\netcoreapp3.1\JackHenry-ChadCannonAssessment.dll
+C:\Rider\Projects\JackHenry-ChadCannonAssessment\JackHenry-ChadCannonAssessment\bin\Debug\netcoreapp3.1\JackHenry-ChadCannonAssessment.pdb
+C:\Rider\Projects\JackHenry-ChadCannonAssessment\JackHenry-ChadCannonAssessment\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Rider\Projects\JackHenry-ChadCannonAssessment\JackHenry-ChadCannonAssessment\bin\Debug\netcoreapp3.1\Reddit.NET.dll
+C:\Rider\Projects\JackHenry-ChadCannonAssessment\JackHenry-ChadCannonAssessment\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Rider\Projects\JackHenry-ChadCannonAssessment\JackHenry-ChadCannonAssessment\obj\Debug\netcoreapp3.1\JackHenry-ChadCannonAssessment.csprojAssemblyReference.cache
+C:\Rider\Projects\JackHenry-ChadCannonAssessment\JackHenry-ChadCannonAssessment\obj\Debug\netcoreapp3.1\JackHenry-ChadCannonAssessment.csproj.CoreCompileInputs.cache
+C:\Rider\Projects\JackHenry-ChadCannonAssessment\JackHenry-ChadCannonAssessment\obj\Debug\netcoreapp3.1\JackHenry-ChadCannonAssessment.AssemblyInfoInputs.cache
+C:\Rider\Projects\JackHenry-ChadCannonAssessment\JackHenry-ChadCannonAssessment\obj\Debug\netcoreapp3.1\JackHenry-ChadCannonAssessment.AssemblyInfo.cs
+C:\Rider\Projects\JackHenry-ChadCannonAssessment\JackHenry-ChadCannonAssessment\obj\Debug\netcoreapp3.1\JackHenry-ChadCannonAssessment.csproj.CopyComplete
+C:\Rider\Projects\JackHenry-ChadCannonAssessment\JackHenry-ChadCannonAssessment\obj\Debug\netcoreapp3.1\JackHenry-ChadCannonAssessment.dll
+C:\Rider\Projects\JackHenry-ChadCannonAssessment\JackHenry-ChadCannonAssessment\obj\Debug\netcoreapp3.1\JackHenry-ChadCannonAssessment.pdb
+C:\Rider\Projects\JackHenry-ChadCannonAssessment\JackHenry-ChadCannonAssessment\obj\Debug\netcoreapp3.1\JackHenry-ChadCannonAssessment.genruntimeconfig.cache
